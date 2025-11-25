@@ -55,7 +55,7 @@ months, segments, and payment modes.
 ----------------------------------------------------
 📦 Files Included in This Repository:
 - Task 8.pdf
-- Superstore_Sales.csv (Dataset)
+- Superstore Sales Dataset.csv (Dataset)
 - insights.txt (7 Insights)
 - README.txt (This file)
 
