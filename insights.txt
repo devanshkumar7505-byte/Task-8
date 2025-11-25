@@ -1,0 +1,7 @@
+1. The Consumer Segment generates the highest revenue of overall Sales, followed by Corporates, While Home Office      contributes the least.
+ 2. The regional donut chart indicates that the West Region has the highest sales, outperforming East, Central, and South.
+ 3. The Payment method chart shows COD(Cash on Delivery) having the highest share, Followed by Credit Card and Online Methods.
+ 4. The bar chart highlights Office Supplies as the highest revenue Category, Surpassing Technology and Furniture.
+ 5. The line line chart for Monthly profit for years shows significant growth during October, December indicating festive season impact on Customer purchase.
+ 6. The Sub-Category bars show Phones and Chairs as major revenue generators, with Binders performing Strongly as well.
+ 7. The Sales by Ship mode chart shows that Standard Class  Ship Mode generates most Sales, Followed by Second Class, and First Class.
